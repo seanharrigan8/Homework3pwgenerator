@@ -20,4 +20,7 @@ The following image shows the web application's appearance and functionality:
 
 A screenshot displays a sample password generator.
 
+https://seanharrigan8.github.io/Homework3pwgenerator/
+https://github.com/seanharrigan8/Homework3pwgenerator
+
 ![image](https://github.com/seanharrigan8/Homework3pwgenerator/assets/142540340/961823e4-7f8a-4db2-a62e-ac054a7d4f87)
